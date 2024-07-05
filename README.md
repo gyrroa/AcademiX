@@ -9,7 +9,7 @@ AcademiX – an all-in-one student platform designed to supercharge learning. Ac
 
 # Repository Contents
 
-<ul align="justify>
+<ul>
     <li><strong>Assets:</strong> This section contains all the resources utilized within this repository.</li>
     <li><strong>Coursera Certificatess po:</strong> Here you will find the certifications earned by team members through Coursera courses.</li>
     <li><strong>User Manual:</strong> Comprehensive instructions for navigating and fully utilizing the features of our app prototype are provided in this manual.</li>
