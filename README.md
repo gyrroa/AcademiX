@@ -7,7 +7,7 @@
 AcademiX – an all-in-one student platform designed to supercharge learning. AcademiX combines powerful organization tools for managing homework and deadlines with a vibrant social hub for finding study groups and collaborating with classmates. Our platform also features gamified flashcards and quizzes to make studying fun and engaging, and on-demand tutoring to connect students with qualified instructors for personalized online sessions. AcademiX provides everything students need to succeed in one dynamic platform.
 </p>
 
-#Repository Contents
+# Repository Contents
 
 <ul>
     <li><strong>Assets:</strong> This section contains all the resources utilized within this repository.</li>
