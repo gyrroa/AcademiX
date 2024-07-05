@@ -1,14 +1,9 @@
-
-<h1 align="center"> WELCOME TO MY HCI PORTFOLIO!</h1>
-
 # Introduction
 <p align="center">
   <img src="Assets/academix-logo.png" width="300" alt="AcademiX Logo"><br>
 </p>
 
-In this portfolio you will see our project which is AcademiX. AcademiX is the ultimate student platform, blending powerful organization tools with a lively social hub. It helps manage homework, deadlines, and connects you with study groups. Enjoy gamified flashcards and quizzes for fun learning, plus on-demand tutoring with qualified instructors for personalized help. Everything you need to succeed, all in one place!
-  
-
+AcademiX – an all-in-one student platform designed to supercharge learning. AcademiX combines powerful organization tools for managing homework and deadlines with a vibrant social hub for finding study groups and collaborating with classmates. Our platform also features gamified flashcards and quizzes to make studying fun and engaging, and on-demand tutoring to connect students with qualified instructors for personalized online sessions. AcademiX provides everything students need to succeed in one dynamic platform.
 
 # FLUX Developers
 <p align="center">
